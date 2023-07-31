@@ -1,5 +1,5 @@
 if game.PlaceId == 286090429 then 
-    loadstring(game:HttpGet("", true))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/TjZero1425/Myperior/main/Scripthub/arsenal", true))()
 elseif game.PlaceId == 6516141723 then 
-    loadstring(game:HttpGet("", true))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/TjZero1425/Myperior/main/Scripthub/doors", true))()
 end
